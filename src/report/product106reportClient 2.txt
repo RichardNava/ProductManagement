@@ -1,0 +1,6 @@
+Donut, Precio: 2,50 €, Valoración: ★★★★☆, Fecha de caducidad: 7/7/22
+Reseñas: ★★★★★	Great
+Reseñas: ★★★★☆	Nice 
+Reseñas: ★★★★☆	Fine
+Reseñas: ★★★★☆	Very good
+Reseñas: ★★★☆☆	Yet another review

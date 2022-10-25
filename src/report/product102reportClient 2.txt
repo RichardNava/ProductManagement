@@ -1,0 +1,10 @@
+Coffe, Price: £2.25, Rating: ★★★☆☆, Best Before: 06/07/2022
+Review: ★★★★★	Excelente calidad
+Review: ★★★☆☆	Que rico
+Review: ★★★☆☆	Puede ser mejor
+Review: ★★★☆☆	Los he probado mejores
+Review: ★★★☆☆	Yet another review
+Review: ★★★☆☆	Yet another review
+Review: ★★★☆☆	Yet another review
+Review: ★★☆☆☆	Estoy algo insastifecho
+Review: ★★☆☆☆	Infame

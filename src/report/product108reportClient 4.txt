@@ -1,0 +1,5 @@
+Cookie, Precio: 1,50 €, Valoración: ★★★☆☆, Fecha de caducidad: 7/7/22
+Reseñas: ★★★★★	Lo mejor de lo mejor
+Reseñas: ★★★☆☆	Yet another review
+Reseñas: ★★☆☆☆	A mi no me parece para tanto
+Reseñas: ★☆☆☆☆	El primero no tiene ni idea

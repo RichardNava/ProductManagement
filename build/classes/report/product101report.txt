@@ -1,0 +1,7 @@
+Tea, Precio: 1,99 €, Valoración: ★★★★☆, Fecha de caducidad: 5/7/22
+Reseñas: ★★★★★	Perfect tea
+Reseñas: ★★★★☆	Nice hot cup of tea
+Reseñas: ★★★★☆	Fine tea
+Reseñas: ★★★★☆	Good tea
+Reseñas: ★★★☆☆	Just add some lemon
+Reseñas: ★★☆☆☆	Rather weak tea

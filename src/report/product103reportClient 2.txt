@@ -1,0 +1,8 @@
+Cake, Price: £3.99, Rating: ★★★★☆, Best Before: 07/07/2022
+Review: ★★★★★	Se desahace en la boca
+Review: ★★★★★	Muy bueno dan ganas de repetir
+Review: ★★★★☆	Muy bien
+Review: ★★★★☆	Genial
+Review: ★★★★☆	Muy recomendable
+Review: ★★★☆☆	Esta bien
+Review: ★★★☆☆	Yet another review

@@ -1,0 +1,9 @@
+Beer，價格：CN¥ 2.99，評級：★★★☆☆，最佳之前：2022-07-07
+雷塞尼亞: ★★★★☆	Nada mal
+雷塞尼亞: ★★★☆☆	Bastante bien
+雷塞尼亞: ★★★☆☆	Quiza demasiado azucar
+雷塞尼亞: ★★★☆☆	Yet another review
+雷塞尼亞: ★★★☆☆	Yet another review
+雷塞尼亞: ★★☆☆☆	No volvere
+雷塞尼亞: ★★☆☆☆	Vomitivo
+雷塞尼亞: ★☆☆☆☆	Lo peor que he probado

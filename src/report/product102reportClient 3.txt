@@ -1,0 +1,10 @@
+Coffe, Precio: 2,25 €, Valoración: ★★★☆☆, Fecha de caducidad: 6/7/22
+Reseñas: ★★★★★	Excelente calidad
+Reseñas: ★★★☆☆	Que rico
+Reseñas: ★★★☆☆	Puede ser mejor
+Reseñas: ★★★☆☆	Los he probado mejores
+Reseñas: ★★★☆☆	Yet another review
+Reseñas: ★★★☆☆	Yet another review
+Reseñas: ★★★☆☆	Yet another review
+Reseñas: ★★☆☆☆	Estoy algo insastifecho
+Reseñas: ★★☆☆☆	Infame

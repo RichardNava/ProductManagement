@@ -1,0 +1,8 @@
+Tea, Prix : 1,99 €, Note : ★★★★☆, Meilleur avant : 07/07/2022
+Examen: ★★★★★	Perfect tea
+Examen: ★★★★☆	Nice hot cup of tea
+Examen: ★★★★☆	Fine tea
+Examen: ★★★★☆	Good tea
+Examen: ★★★☆☆	Just add some lemon
+Examen: ★★★☆☆	Yet another review
+Examen: ★★☆☆☆	Rather weak tea

@@ -1,0 +1,7 @@
+Cookie, Price: $1.50, Rating: ★★★☆☆, Best Before: 7/7/22
+Review: ★★★★★	Lo mejor de lo mejor
+Review: ★★★☆☆	Yet another review
+Review: ★★★☆☆	Yet another review
+Review: ★★★☆☆	Yet another review
+Review: ★★☆☆☆	A mi no me parece para tanto
+Review: ★☆☆☆☆	El primero no tiene ni idea

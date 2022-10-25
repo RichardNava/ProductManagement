@@ -1,0 +1,8 @@
+CocaCola, Prix : 1,99 €, Note : ★★★☆☆, Meilleur avant : 07/07/2022
+Examen: ★★★★★	Cantidubi
+Examen: ★★★★☆	Guay
+Examen: ★★★☆☆	Mazo
+Examen: ★★★☆☆	Mejorable
+Examen: ★★★☆☆	Yet another review
+Examen: ★★☆☆☆	Chachi
+Examen: ★☆☆☆☆	Mola

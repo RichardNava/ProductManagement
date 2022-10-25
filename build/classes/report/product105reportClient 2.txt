@@ -1,0 +1,8 @@
+CocaCola, Price: $1.99, Rating: ★★★☆☆, Best Before: 7/7/22
+Review: ★★★★★	Cantidubi
+Review: ★★★★☆	Guay
+Review: ★★★☆☆	Mazo
+Review: ★★★☆☆	Mejorable
+Review: ★★★☆☆	Yet another review
+Review: ★★☆☆☆	Chachi
+Review: ★☆☆☆☆	Mola

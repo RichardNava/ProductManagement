@@ -1,0 +1,8 @@
+Beer, Price: £2.99, Rating: ★★★☆☆, Best Before: 11/07/2022
+Review: ★★★★☆	Nada mal
+Review: ★★★☆☆	Bastante bien
+Review: ★★★☆☆	Quiza demasiado azucar
+Review: ★★★☆☆	Yet another review
+Review: ★★☆☆☆	No volvere
+Review: ★★☆☆☆	Vomitivo
+Review: ★☆☆☆☆	Lo peor que he probado
